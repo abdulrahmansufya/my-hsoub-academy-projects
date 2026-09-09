@@ -1,0 +1,40 @@
+popular cities forecast
+11 07, 2025
+=======================
++-----------------+--------+------------------------------+
+| city            |   temp | condition                    |
+|-----------------+--------+------------------------------|
+| Amsterdam       |     19 | Clear sky                    |
+| Antalya         |     26 | Clear sky                    |
+| Auckland        |     12 | Clear sky                    |
+| Bali            |     18 | Light rain                   |
+| Barcelona       |     26 | Few clouds                   |
+| Buenos Aires    |     15 | Clear sky                    |
+| Cairo           |     29 | Clear sky                    |
+| Cancún          |     32 | Few clouds                   |
+| Cape Town       |      9 | Partly cloudy                |
+| Dubai           |     36 | Partly cloudy                |
+| Hanoi           |     26 | Light intensity drizzle      |
+| Hong Kong       |     28 | Partly cloudy                |
+| Honolulu        |     29 | Light intensity shower rain  |
+| Ibiza Town      |     27 | Partly cloudy                |
+| Istanbul        |     24 | Clear sky                    |
+| Lima            |     18 | Few clouds                   |
+| London          |     26 | Clear sky                    |
+| Marmagao        |     25 | Heavy intensity rain         |
+| Oslo            |     24 | Clear sky                    |
+| Paris           |     25 | Clear sky                    |
+| Phuket          |     27 | Broken clouds                |
+| Rhodes          |     26 | Clear sky                    |
+| Rio de Janeiro  |     23 | Clear sky                    |
+| Rome            |     24 | Clear sky                    |
+| Seoul           |     25 | Clear sky                    |
+| Sharm el Sheikh |     35 | Clear sky                    |
+| Singapore       |     29 | Thunderstorm with light rain |
+| Sydney          |     11 | Clear sky                    |
+| Tenerife        |     24 | Partly cloudy                |
+| Tokyo           |     22 | Overcast clouds              |
+| Toronto         |     29 | Few clouds                   |
+| Venice          |     21 | Few clouds                   |
+| Vienna          |     18 | Clear sky                    |
++-----------------+--------+------------------------------+

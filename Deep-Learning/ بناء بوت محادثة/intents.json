@@ -1,0 +1,127 @@
+{"intents": 
+[
+{"class": "greeting",
+"patterns": ["Hi", "Hey", "Hey there","Is anyone there?", "Hello", "Hay"],
+"responses": ["Hello! Welcome to our hotel reservation service. \nHow can I assist you today?",
+              "Hello! Please let me help you",
+              "Hello! I will be happy to help you"]
+},
+{
+  "class": "pool",
+  "patterns": [
+    "Is there a pool in the hotel?",
+    "Tell me about the swimming pool",
+    "Do you have a pool?"
+  ],
+  "responses": ["Yes, we have a beautiful swimming pool available for our guests.\nIt's perfect for relaxation and enjoyment during your stay.\nPlease let me know if you'd like more information about pool timings or any other details."]
+},
+{
+  "class": "room_types",
+  "patterns": [
+    "What types of rooms do you have?",
+    "Tell me about the room options"
+  ],
+  "responses": ["We offer various types of rooms. Here are the available options:\n\n1. Standard Room:\nPrice: $100 per night\nDescription: A comfortable room with essential amenities.\n\n2. Deluxe Room:\nPrice: $150 per night\nDescription: A spacious and well-appointed room with additional amenities.\n\n3. Suite:\nPrice: $200 per night\nDescription: A luxurious suite with separate living and sleeping areas, ideal for those seeking extra comfort and space.\n\nPlease let me know your preferred room type."]
+},
+{
+    "class": "check_availability",
+    "patterns": [
+      "Do you have any available rooms?",
+      "Can I check room availability?",
+      "What are the available dates?"
+    ],
+    "responses": ["Sure! I can help you check the availability. Please provide me with the check-in and check-out dates."]
+},
+  
+  {
+    "class": "services",
+    "patterns": [
+      "What services do you offer?",
+      "Tell me about the hotel services"
+    ],
+    "responses": ["We offer a range of services to enhance your stay, including:\n\n- Room service\n- Housekeeping\n- Concierge assistance\n- Fitness center\n- Spa and wellness facilities\n- Business center\n\nLet me know if you would like more information about any specific service."]
+  },
+  {
+    "class": "reservation",
+    "patterns": [
+      "I want to make a reservation",
+      "Book a room",
+      "Can you help me reserve a room?"
+    ],
+    "responses": ["Certainly! I can assist you with the reservation process. Please provide me with the necessary details, such as the check-in and check-out dates, number of guests, and room preferences."]
+  },
+  {
+    "class": "cancel_reservation",
+    "patterns": [
+      "I need to cancel my reservation",
+      "Can I cancel my booking?",
+      "How do I cancel a reservation?"
+    ],
+    "responses": ["I'm sorry to hear that you need to cancel your reservation. To proceed with the cancellation, please provide me with your booking details, such as the reservation ID or the name used for the booking."]
+  },
+  {
+    "class": "amenities",
+    "patterns": [
+      "What amenities are available in the rooms?",
+      "Tell me about the room amenities"
+    ],
+    "responses": ["Our rooms are equipped with the following amenities:\n\n- Complimentary Wi-Fi\n- Flat-screen TV\n- Mini-fridge\n- Coffee and tea making facilities\n- Work desk\n- In-room safe\n\nIf you have any specific requirements or need further information, feel free to let me know."]
+  },
+ 
+  {
+    "class": "sea_view",
+    "patterns": [
+      "Do you have rooms with a sea view?",
+      "Are there any rooms overlooking the sea?",
+      "Can I get a room with a view of the ocean?"
+    ],
+    "responses": ["Certainly! We have rooms with stunning sea views. You can enjoy the serene beauty of the ocean right from your window. These rooms are subject to availability, so it's recommended to book in advance. Let me know if you'd like to proceed with a reservation or need more information."]
+  },
+  {
+    "class": "thanks",
+    "patterns": [
+      "Thank you",
+      "Thanks for your help",
+      "Appreciate your assistance"
+    ],
+    "responses": ["You're welcome! If you have any more questions or need further assistance, feel free to ask."]
+  },
+{"class": "goodbye",
+"patterns": ["Bye", "See you later", "Goodbye"],
+"responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+},
+{"class": "thanks",
+"patterns": ["Thanks", "Thank you", "That is helpful", "Thanks for the help"],
+"responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+},
+{"class": "about",
+"patterns": ["Who are you?", "What are you?", "Who you are?" ],
+"responses": ["I.m Joana, your bot assistant", "I'm Joana, an Artificial Intelligent bot"]
+},
+{"class": "name",
+"patterns": ["what is your name", "what should I call you", "whats your name?"],
+"responses": ["You can call me Joana.", "I'm Joana!", "Just call me as Joana"]
+},
+{"class": "age",
+"patterns": ["how old are you?", "when is your birthday?", "when was you born?"],
+"responses": ["I am 24 years old", "I was born in 1996", "My birthday is July 3rd and I was born in 1996", "03/07/1996"]
+},
+{"class": "help",
+"patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+"responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+},
+{"class": "createaccount",
+"patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
+"responses": ["You can just easily create a new account from our web site", "Just go to our web site and follow the guidelines to create a new account"]
+},
+{"class": "date",
+"patterns": ["what are you doing this weekend?",
+"do you want to hang out some time?", "what are your plans for this week"],
+"responses": ["I am available all week", "I don't have any plans", "I am not busy"]
+},
+{"class": "complaint",
+"patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
+"responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
+} 
+    ]
+  }
